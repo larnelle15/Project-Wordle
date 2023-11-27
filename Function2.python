@@ -1,4 +1,5 @@
-from is_valid_guess_fn import is_valid_guess
+from is_valid_guess_fn 
+import is_valid_guess
 
 # Write the get_guess function here.
 def get_guess(required_letters):
