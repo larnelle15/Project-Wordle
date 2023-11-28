@@ -1,4 +1,7 @@
 In the game Wordle, the user is trying to guess a secret 5 letter word. The user will type in a 5 letter guess, and the computer will share information about how close the guess is to the actual answer. 
+
+<img width="385" alt="Screen Shot 2023-11-27 at 11 59 03 PM" src="https://github.com/larnelle15/Project-Wordle/assets/139686202/a810505a-67e1-4108-bd02-40ad2b304a40">
+
 If a letter in the guess exactly matches a letter in the answer (same letter and correct position), the letter will be marked green.
 If a letter in the guess almost matches a letter in the answer (same letter, but incorrect position), the letter will be marked yellow.
 If a letter in the guess doesn’t match a letter in the answer (guessed letter doesn’t exist in answer), the letter will be marked red. I know the actual game marks the letter gray, but I will mark it red to be super clear.
