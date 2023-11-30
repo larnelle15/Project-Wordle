@@ -22,4 +22,5 @@ In this project, I will be doing the user input and output in the terminal (as o
 I will also assume that no answer or guess has duplicate letters (i.e. a guess like TOTEM is not allowed because it has 2 Ts).  Allowing duplicates makes the project more complicated, and requires additional data structures like arrays, which I haven’t learned yet. I will also assume that all guesses will be all capitalized.
 You do not need to check if any of the guesses are real words.
 In hard mode, a user does not need to reuse green letters in the same position. As long as they use all green/yellow letters from their previous guesses in their new guess (regardless of which position they’re in), their guess is valid. 
+You can also play the game online at https://www.nytimes.com/games/wordle/index.html 
 
